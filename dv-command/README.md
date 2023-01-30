@@ -3,6 +3,11 @@
 
 - You will have to create files and add them to fxmanifest.lua
 
+## Natives that you could use
+- [DeleteEntity()](https://docs.fivem.net/natives/?_0xFAA3D236)
+- [DeleteVehicle()](https://docs.fivem.net/natives/?_0xEA386986E786A54F)
+- [GetGamePool()](https://docs.fivem.net/natives/?_0x2B9D4F50) (this is if you want to do the bonus part about the nearby vehicle)
+
 <hr/>
 
   
